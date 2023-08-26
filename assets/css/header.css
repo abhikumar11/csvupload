@@ -32,11 +32,13 @@ body {
     font-family: 'Source Sans 3', sans-serif;
     padding: 10px;
     padding-top: 22px;
-    color: #757575;
+    color: skyblue;
 }
 .file-name {
     margin-left: 18%;
     padding: 17px;
     font-size: 19px;
     font-family: 'Source Sans 3', sans-serif;
+
+    color: white;
 }
